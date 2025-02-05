@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react.js, JavaScript**
 <h2>About Me</h2>
-<P align='left'>I'm a professional Web Developer . I can develop any website using React.js . All Website are responsive mobile,tablet and laptop/desktop device. I give my best services for my client or company . Company and Client Satisfaction is my main goal.</P>
+<P align='left'>I'm a professional Web Developer . I can develop any website using React.js . All Website are responsive mobile,tablet and laptop/desktop device. I love working with JavaScript, React, and Node.js. Currently, I am exploring Next.js and DevOps . I give my best services for my client or company . Company and Client Satisfaction is my main goal.</P>
 <h3 align="left">Connect with me: 01733757561</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/durjoy-chando-4a9878317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/durjoy-chando-4a9878317" height="30" width="40" /></a>
