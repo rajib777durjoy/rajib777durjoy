@@ -1,4 +1,4 @@
-<img width='500' hight='400' align='center' src='https://i.ibb.co.com/YFZ32FZf/desktop-wallpaper-develop-your-mern-stack-web-application-by-mdsajaldeowan-mern-stack.jpg'>
+<img width='1000' hight='400' align='center' src='https://i.ibb.co.com/YFZ32FZf/desktop-wallpaper-develop-your-mern-stack-web-application-by-mdsajaldeowan-mern-stack.jpg'>
 <h1 align="center">Hi 👋, I'm Durjoy Chando</h1>
 <h3 align="center">Iam Front-End Developer|Mern Stack Developer</h3>
 
