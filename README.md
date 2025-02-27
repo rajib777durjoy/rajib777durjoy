@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Durjoy Chando</h1>
 <h3 align="center">Iam Front-End Developer|Mern Stack Developer</h3>
 
-- 🔭 I’m currently working on [Fitness Tracker Project](https://github.com/rajib777durjoy/assignment12)
+- 🔭 I’m currently working on [Fitness Tracker Project](https://assignment12-f557e.web.app)
 
 - 🌱 I’m currently learning **MongoDB Aggregation & DevOps**
 
